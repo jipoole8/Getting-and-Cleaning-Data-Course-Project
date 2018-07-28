@@ -6,7 +6,7 @@ See the README.md file of this repository for background information on this dat
 
 ## Data
 
-The tidy_data.txt data file is a text file.
+The tidy_data.txt data file is the output text file of the run_analysis.R script.
 
 The first row contains the names of the variables, which are listed and described in the Variables section, and the following rows contain the values of these variables.
 
